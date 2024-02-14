@@ -1,0 +1,19 @@
+body {
+    background-image: url("img/estadio.jpeg");
+}
+
+main.centro {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+p.blanco{
+    color: white;
+}
+
+h1.blancoo{
+    color: white;
+}

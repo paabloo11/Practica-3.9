@@ -1,0 +1,15 @@
+div.negro {
+    background-color: black;
+}
+h2.blancoo {
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-image: url("img/estadio.jpeg");
+}
+
+p.blanco{
+    color: white;
+}
